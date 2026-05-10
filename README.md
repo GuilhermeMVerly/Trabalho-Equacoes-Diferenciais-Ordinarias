@@ -19,9 +19,9 @@ N(0) = 1000 núcleos; λ = 2,7 dia−1; P = 20 núcleos/dia;
  
 2. Implementar, utilizando a linguagem de programação Python:
    
-(a) O método de Euler com passo h = 0,5, h = 0,1 e h = 0,05;
+   (a) O método de Euler com passo h = 0,5, h = 0,1 e h = 0,05;
 
-(b) O método de Runge-Kutta de quarta ordem com passo h = 1,0, h = 0,5 e h = 0,1.
+   (b) O método de Runge-Kutta de quarta ordem com passo h = 1,0, h = 0,5 e h = 0,1.
 
 4. Considerar o intervalo de tempo 0 ≤ t ≤ 5 dia.
 
