@@ -12,9 +12,10 @@ onde:
 Considere para o problema proposto os seguintes parâmetros:
 N(0) = 1000 núcleos
 λ = 2,7 dia−1
-P = 20 n´ucleos/dia
+P = 20 núcleos/dia
 
 **Atividades Propostas**
+
 1. Resolver a equação diferencial analiticamente, encontrando N(t).
  
 2. Implementar, utilizando a linguagem de programação Python:
@@ -25,7 +26,7 @@ P = 20 n´ucleos/dia
 
 4. Considere o intervalo de tempo 0 ≤ t ≤ 5 dia.
 
-5. Plote os gr´aficos das soluções numéricas obtidas por cada método e passo, juntamente com a
+5. Plote os gráficos das soluções numéricas obtidas por cada método e passo, juntamente com a
 solução analítica no mesmo gráfico.
 
 7. Calcular e apresentar o desvio relativo percentual entre as soluções numéricas e a analítica nos
