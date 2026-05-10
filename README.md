@@ -1,3 +1,7 @@
+**Trabalho- Equações Diferenciais Ordinárias**
+
+**Membros:Gabriel Gonçalves Figueira, Guilherme Munhooz Verly e Paulo Emanuel De Araujo Pessanha ** 
+
 Consideramos o problema de estudar a variação da quantidade de núcleos radioativos de uma substância
 que sofre decaimento e, ao mesmo tempo, possui uma produção contínua de novos núcleos em razão
 de uma reação nuclear controlada. Este processo pode ser modelado por uma equação diferencial
