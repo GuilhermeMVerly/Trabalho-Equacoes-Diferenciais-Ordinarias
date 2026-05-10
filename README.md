@@ -3,8 +3,7 @@ que sofre decaimento e, ao mesmo tempo, possui uma produção contínua de novos
 de uma reação nuclear controlada. Este processo pode ser modelado por uma equação diferencial
 do tipo:
 
-dN
-dt = −λN + P, (1)
+$ \frac{dN}{dt} = −λN + P, (1)$
 onde:
 
 • N(t) é o número de núcleos radioativos no instante t (em átomos);
@@ -15,7 +14,7 @@ N(0) = 1000 núcleos
 λ = 2,7 dia−1
 P = 20 n´ucleos/dia
 
-Atividades Propostas
+**Atividades Propostas**
 1. Resolver a equação diferencial analiticamente, encontrando N(t).
  
 2. Implementar, utilizando a linguagem de programação Python:
