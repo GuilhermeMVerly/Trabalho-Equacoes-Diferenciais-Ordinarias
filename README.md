@@ -3,7 +3,7 @@ que sofre decaimento e, ao mesmo tempo, possui uma produção contínua de novos
 de uma reação nuclear controlada. Este processo pode ser modelado por uma equação diferencial
 do tipo:
 
-$ \frac{dN}{dt} = −λN + P $
+$𝐷 = 0,01𝜎𝑉^2 + \frac{0,95}{𝜎}\frac{(W)^2}{(V^2)} $
 onde:
 
 • N(t) é o número de núcleos radioativos no instante t (em átomos);
