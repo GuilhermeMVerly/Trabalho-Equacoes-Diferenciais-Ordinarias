@@ -11,9 +11,7 @@ onde:
 • P ´e a taxa de produção constante de novos núcleos (em átomos/dia).
 Considere para o problema proposto os seguintes parâmetros:
 
-N(0) = 1000 núcleos;
-λ = 2,7 dia−1;
-P = 20 núcleos/dia;
+N(0) = 1000 núcleos; λ = 2,7 dia−1; P = 20 núcleos/dia;
 
 **Atividades Propostas**
 
