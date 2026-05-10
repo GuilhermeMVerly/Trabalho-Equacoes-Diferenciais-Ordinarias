@@ -12,8 +12,11 @@ $\frac{dN}{dt} = -λN  + P$
 onde:
 
 • N(t) é o número de núcleos radioativos no instante t (em átomos);
+
 • λ é a constante de decaimento (em dia−1);
+
 • P é a taxa de produção constante de novos núcleos (em átomos/dia).
+
 Consideramos para o problema proposto os seguintes parâmetros:
 
 N(0) = 1000 núcleos; λ = 2,7 dia−1; P = 20 núcleos/dia;
